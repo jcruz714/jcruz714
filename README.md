@@ -17,8 +17,8 @@
 [<img align="left" alt="JoaquinCruz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoaquinCruz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
+[twitter]: https://twitter.com
+[youtube]: https://www.youtube.com
 [instagram]: https://www.instagram.com
 [linkedin]: https://www.linkedin.com/in/joaquin-cruz/
 
