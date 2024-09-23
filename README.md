@@ -14,6 +14,7 @@ My journey in Computer Inforamtion Systems has led me to develop a passion for c
 
 <h2> 📄 Certifications:</h2>
 
+  - [CompTIA A+](https://www.credly.com/badges/1f116ae5-180b-49f9-99b4-0c81d99b329f/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
