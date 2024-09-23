@@ -1,5 +1,11 @@
 <h1>Hi, I'm Joaquin! </h1>
 
+I am a recent graduate with a profound interest in technology and dedicatation to solving complex problems. 
+
+## Objective
+
+My journey in Computer Inforamtion Systems has led me to develop a passion for cybersecurity and cloud computing. I am eager to transition into this field. 
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/jcruz714/LABURL)
