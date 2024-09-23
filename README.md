@@ -1,6 +1,4 @@
-<h1>Hi, I'm Joaquin! </h1>
-
-I am a recent graduate with a profound interest in technology and dedicatation to solving complex problems. 
+<h1>Hi, I'm Joaquin! </h1> 
 
 ## Objective
 
