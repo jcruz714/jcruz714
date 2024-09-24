@@ -2,7 +2,7 @@
 
 ## Objective
 
-My journey in Computer Information Systems has fueled my passion for both cybersecurity and cloud computing, with a strong focus on AWS. I am eager to transition into roles that allow me to work in cloud environments, leveraging my experience in AWS security tools and system administration. I am actively enhancing my expertise through certifications like CompTIA Core 2 and continuously exploring opportunities in cloud infrastructure and AWS solutions. 
+My journey in Computer Information Systems has fueled my passion for both cybersecurity and cloud computing, with a strong focus on AWS. I am eager to transition into roles that allow me to work in cloud environments, leveraging my experience in AWS security tools and system administration. I am actively enhancing my expertise through certifications like the CompTIA A+ and continuously exploring opportunities in cloud infrastructure and AWS solutions. 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
